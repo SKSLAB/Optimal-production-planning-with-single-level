@@ -26,7 +26,7 @@ The file Script.m shows how to use these files along with an optimization algori
 
 All cases (Case1 to Case 8) have a problem dimension of 54 continuous variables.
 
-Note: 
+**Note:** <br> 
   1. The inbuilt optimization algorithms in MATLAB require that the objective function file return only the values of the objective function and cannot be directly used to solve these problems.
 
   2. Conventionally, the algorithm provides the solutions (X) and requires the objective function values (F). But in these problems, in addition to F, the corrected solutions (XCorrected) are provided by the objective function file.
@@ -38,3 +38,9 @@ Note:
   4. Case 1 - 4 have the same problem structure but employ different data; Case 5 - 8 has same set of data as compared to Case 1 - 4, but do not employ a certain feature (flexible) of the problem.
 
   5. The objective function files are capable of determining the objective function values of multiple solutions (i.e., if required, the entire population can be sent to the objective function file).
+
+<br>
+**Reference:** <br> 
+  1. Chauhan, S., S., and Kotecha P. (2016) Single level production planning in petrochemical industries using Moth-flame optimization,IEEE Region 10 Conference (TENCON), Singapore, https://doi.org/10.1109/TENCON.2016.7848003. <br>
+  2. Chauhan, S., S., and Kotecha P. (2018), Single-Level Production Planning in Petrochemical Industries using Novel Computational Intelligence Algorithms,Metaheuristic Optimization Methods: Algorithms and Engineering Applications, Springer.
+  
