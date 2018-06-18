@@ -39,7 +39,7 @@ All cases (Case1 to Case 8) have a problem dimension of 54 continuous variables.
 
   5. The objective function files are capable of determining the objective function values of multiple solutions (i.e., if required, the entire population can be sent to the objective function file).
 
-<br>
+
 **Reference:** <br> 
   1. Chauhan, S., S., and Kotecha P. (2016) Single level production planning in petrochemical industries using Moth-flame optimization,IEEE Region 10 Conference (TENCON), Singapore, https://doi.org/10.1109/TENCON.2016.7848003. <br>
   2. Chauhan, S., S., and Kotecha P. (2018), Single-Level Production Planning in Petrochemical Industries using Novel Computational Intelligence Algorithms,Metaheuristic Optimization Methods: Algorithms and Engineering Applications, Springer.
